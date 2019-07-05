@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SolarSystem</string>
+    <string name="plane_finding">Looking for a surface&#8230;</string>
+
+</resources>
